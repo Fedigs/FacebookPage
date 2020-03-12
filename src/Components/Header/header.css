@@ -1,0 +1,32 @@
+.header {
+  background: #3b5998;
+  height: 45px;
+  position: "fixed";
+  z-index: 1;
+  width: "100%";
+  border-bottom: "1.2px solid #29487d";
+}
+
+.flex-container {
+  position: "fixed";
+  float: left;
+  display: flex;
+  flex-direction: row;
+  /* width: 30%;*/
+  justify-content: space-between;
+}
+
+#logoFb {
+  height: 24px;
+  width: 24px;
+  margin-bottom: 22px;
+  margin-left: 50px;
+}
+
+#SearchHeader {
+  color: #dfe1ee;
+}
+
+h4 {
+  color: rgb(255, 255, 255);
+}
